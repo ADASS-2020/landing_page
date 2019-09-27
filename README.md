@@ -8,4 +8,4 @@ This is the code for the [ADASS 2020 Website](https://adass2020.es/). It is base
 
 ## Copyright and License
 
-Copyright 2019 ADASS 2020 LOC. Code released under the [MIT](https://github.com/ADASS-2020/website/blob/gh-pages/LICENSE) license.
+Copyright 2019 ADASS 2020 LOC. Code released under the [MIT](https://github.com/ADASS-2020/website/blob/master/LICENSE) license.
